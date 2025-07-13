@@ -39,11 +39,11 @@ Podés ver capturas, resultados de ejemplo y documentación en este repositorio,
 
 ## 📸 Capturas
 
-> *Ejemplo de visualización HTML:*
+> *Ejemplo:*
 
 ![dashboard](assets/demo_result.png)
 
-> *Ejemplo CLI con proxy TOR:*
+> *Ejemplo CLI:*
 
 ```
 > python socialstalker.py --tor
